@@ -10,7 +10,7 @@
 			"custom_domain": true
 		}
 	],
-	"name": "when-bus-worker",
+	"name": "when-bus-js",
 	"main": "worker/index.js",
 	"compatibility_date": "2025-12-13",
 	"assets": {
