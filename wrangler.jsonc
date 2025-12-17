@@ -6,7 +6,7 @@
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"routes": [
 		{
-			"pattern": "wheb-bus.shaikzhafir.com",
+			"pattern": "when-bus.shaikzhafir.com",
 			"custom_domain": true
 		}
 	],
