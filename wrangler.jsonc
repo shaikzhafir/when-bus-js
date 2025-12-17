@@ -4,6 +4,12 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
+	"routes": [
+		{
+			"pattern": "wheb-bus.shaikzhafir.com",
+			"custom_domain": true
+		}
+	],
 	"name": "when-bus-worker",
 	"main": "worker/index.js",
 	"compatibility_date": "2025-12-13",
